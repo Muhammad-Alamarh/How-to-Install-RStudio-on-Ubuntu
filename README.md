@@ -10,3 +10,6 @@ sudo apt update
 sudo apt -y install r-base gdebi-core
 ```
 4. We need to install the gdebi package if it's not already available. This tool simplifies the installation of .deb packages, like RStudio, by automatically resolving dependencies during the installation process. It also provides a user-friendly graphical interface for managing .deb packages.
+```bash
+sudo apt install gdebi
+```
