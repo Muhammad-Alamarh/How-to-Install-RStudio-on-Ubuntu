@@ -13,3 +13,12 @@ sudo apt -y install r-base gdebi-core
 ```bash
 sudo apt install gdebi
 ```
+5. Now we can proceed with the direct installation of the file.
+![Screenshot From 2024-12-22 14-02-36](https://github.com/user-attachments/assets/70a65d2c-014c-45d8-ae45-53ed36726065)
+
+
+
+
+
+
+
