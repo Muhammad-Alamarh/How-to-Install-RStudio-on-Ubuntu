@@ -5,7 +5,6 @@ Download the .deb installation file for RStudio from the official website. You c
 [Download RStudio](https://download1.rstudio.org/electron/jammy/amd64/rstudio-2024.12.0-467-amd64.deb)
 2. Install Required Dependencies
 Before installing RStudio, ensure that R is installed on your system. You can install it using the following command in the terminal:
-**Terminal Command:** 
 ```bash
 sudo apt update
 sudo apt -y install r-base gdebi-core
